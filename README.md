@@ -5,6 +5,7 @@ An simple script for google sheet to fetch jita sell price in the game EVE Onlin
 https://www.fuzzwork.co.uk/tools/api-typename-to-typeid/
 
 Guide in FRT & Zhihu homepage:
+
 https://frt-eve.com/viewtopic.php?f=5&t=1033
 
 https://zhuanlan.zhihu.com/p/41228261
